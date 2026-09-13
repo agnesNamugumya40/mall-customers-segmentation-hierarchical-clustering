@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies **Hierarchical Clustering** to segment mall customers into distinct groups based on their **Annual Income** and **Spending Score**. It is part of the *Machine Learning A-Z* course (Part 4 – Clustering, Section 25).
+This project applies **Hierarchical Clustering** to segment mall customers into distinct groups based on their **Annual Income** and **Spending Score**.
 
 ---
 
